@@ -9,4 +9,4 @@ If you prefer a `.pdf` version, you can [download the ebook here][pdf].
 To start reading the book right here on Github, [start here][start].
 
 [pdf]: https://drive.google.com/open?id=1cbpxj4DBNNByV6YcHars_uDL6AUkX-u7
-[start]: []
+[start]: Contents.md
