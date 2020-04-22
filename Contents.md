@@ -1,0 +1,41 @@
+# Field Notes on Product Management in Tiny, Bootstrapped Startups
+
+## Contents
+
+- [Introductory note](01-intro.md)
+    - Who am I?
+    - Why collate these notes?
+    - Caveat
+- [On Organizing Information](02-information.md)
+    - Pick a tool but don't overtool yourself
+    - Communcation as an extension of todos
+    - Early workflows, evolutionary refinements
+    - Public chats vs. Private messages
+- [On Being A Techy Manager](03-techy.md)
+    - Winning the trust of a developer
+    - Listening is not a time-suck
+    - Enabling refactors / removing technical debt
+    - Empty spaces
+- [On Workflows](04-workflows.md)
+    - Checklists to the rescue
+    - Becoming a tester
+    - Context switching
+- [On Communication](05-communication.md)
+    - Repetition of basic assumptions helps
+    - Having a specific time to ping
+    - Learning the circadian rhythm of your developer
+    - Show before tell
+    - Conflicts, ego and other "people" problems
+    - Nurturing a solution-mindset
+- [On Becoming (and being) Customer's Champion](06-customer-champion.md)
+    - Using the customer to guide thorugh conflicts and features
+    - Your developer should think like a customer too
+- [On Spanning Your Interest](07-interest.md)
+    - Being curious about other aspects of your startup
+- [On Being Inspired](08-inspiration.md)
+    - Reading diversity
+    - Not becoming too focused on problem-solving
+    - Side-projects as an avenue
+    - Meditation (or "conscious pauses")
+    - Writing as a form of thought-processing
+- [Closing Thoughts](09-conclusion.md)
