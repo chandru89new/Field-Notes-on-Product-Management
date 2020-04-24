@@ -26,7 +26,7 @@ That means you have to continually refine your system over time as you find the 
 
 Eventually, what happens is you adopt a system and then, even unbeknownst to you, you'll refine it and make changes to it to suit your needs.
 
-##. Public chats vs. Private messages
+## Public chats vs. Private messages
 
 When developers ping privately and it is a question about a feature or bug, try to get them to post on the group. This way, you make discussion de facto. I've sometimes been saved by this because someone points out something that I (or the dev who posted the question) had not factored in.
 
