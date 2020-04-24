@@ -31,3 +31,5 @@ Eventually, what happens is you adopt a system and then, even unbeknownst to you
 When developers ping privately and it is a question about a feature or bug, try to get them to post on the group. This way, you make discussion de facto. I've sometimes been saved by this because someone points out something that I (or the dev who posted the question) had not factored in.
 
 It also saves time when, to answer someone's question, you need inputs from others. Instead of quoting the question again to give the others a context, you can simply start with your question. The context is already visible for everyone else.
+
+This helps especially in fully/partially remote situations (which increasingly is becoming the norm).
